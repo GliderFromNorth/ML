@@ -6,3 +6,10 @@ case we call it a generative model.
 
 Whenever we train a model on examples of input and output, we call it supervised learning.
 W​hat is the output of classification? : category, these categories are also called classes.
+
+Nerest neighbour algorithm
+
+feature extraction  (zero crossing count)
+Learning = Representation + Evaluation + Optimization. ...
+Feature Engineering is the Key
+Feature extraction is important in machine learning. By having many datasets we can make good decision.
