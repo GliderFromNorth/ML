@@ -1,0 +1,8 @@
+If the output is a number or several numbers like how serious a disease is, 
+how emotional some music is, or how cute a kitten is we call it regression.
+
+Machine Learning can create new images, music or synthetic speech in which 
+case we call it a generative model.
+
+Whenever we train a model on examples of input and output, we call it supervised learning.
+W​hat is the output of classification? : category, these categories are also called classes.
